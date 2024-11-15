@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     // "noUncheckedSideEffectImports": true
   },
-  "include": ["src", ".eslintrc.json", "tailwind.config.js"]
+  "include": ["src", ".eslintrc.json", "tailwind.config.js", "postcss.config.js"]
 }

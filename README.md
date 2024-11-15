@@ -12,6 +12,8 @@
 ## TAILWINDCSS
 [tailwindcss](https://tailwindcss.com/)
 
+## REACT QUERY
+
 ## VSCODE PLUGIN
 
 1. [Eslint by dbaeumer](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
