@@ -7,7 +7,7 @@ function App() {
   };
   return (
     <>
-      <h1>Hello 👋, Hedge 🦔 </h1>
+      <h1 className="text-4xl font-bold">Hello 👋, Hedge 🦔 </h1>
       <button type="button" onClick={handleClick}>
         Count: {count}
       </button>

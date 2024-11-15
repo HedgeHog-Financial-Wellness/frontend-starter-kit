@@ -9,6 +9,9 @@
 ## FORMATTER
 [prettier](https://prettier.io/)
 
+## TAILWINDCSS
+[tailwindcss](https://tailwindcss.com/)
+
 ## VSCODE PLUGIN
 
 1. [Eslint by dbaeumer](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
