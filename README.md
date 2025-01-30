@@ -22,6 +22,8 @@ pnpm run format
 pnpm run lint:fix
 ```
 
+## Folder structure
+
 ## Questions
 
 1. What code formatting style to use ? how to enforce it using prettier
