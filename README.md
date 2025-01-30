@@ -28,3 +28,5 @@ pnpm run lint:fix
 
 1. What code formatting style to use ? how to enforce it using prettier
 2. How to use Tailwind at production scale ?
+3. Understand the test setup ? What each components are doing ? what are the different types of test ? that must be written.
+4. Facade pattern in Next JS Application ?
